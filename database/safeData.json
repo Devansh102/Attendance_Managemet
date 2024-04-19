@@ -1,0 +1,335 @@
+{
+    "students": [
+        {"name": "Clark Kent", 
+        "rollno": "1001", 
+        "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    },
+    {"name": "Diana Prince",
+    "rollno": "1002",
+    "attendance": {
+        "subjects": [
+            {
+                "name": "Maths",
+                "marks": {
+                    "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                    "marking": ["P", "P", "A", "A", "P"]
+                },
+                "percentage": "60%",
+                "attended_classes": 3,
+                "absent_classes": 2
+            },
+            {
+                "name": "Science",
+                "marks": {
+                    "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                    "marking": ["A", "P", "A", "A", "P"]
+                },
+                "percentage": "40%",
+                "attended_classes": 2,
+                "absent_classes": 3
+            },
+            {
+                "name": "English",
+                "marks": {
+                    "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                    "marking": ["P", "P", "P", "A", "A"]
+                },
+                "percentage": "80%",
+                "attended_classes": 4,
+                "absent_classes": 1
+            }
+        ]
+    }
+},
+        {"name": "Bruce Wayne",
+        "rollno": "1004",
+        "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    },
+        {"name": "Tony Stark", "rollno": "1005", "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    },
+        {"name": "Naruto Uzumaki",
+         "rollno": "1006",
+         "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    },
+        {"name": "Monkey D. Luffy",
+         "rollno": "1007",
+         "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    }, 
+        {"name": "Goku Son",
+        "rollno": "1008",
+        "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    },
+        {"name": "Ichigo Kurosaki",
+         "rollno": "1009",
+         "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    },
+          {"name": "Light Yagami",
+           "rollno": "1010",
+           "attendance": {
+            "subjects": [
+                {
+                    "name": "Maths",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "A", "A", "P"]
+                    },
+                    "percentage": "60%",
+                    "attended_classes": 3,
+                    "absent_classes": 2
+                },
+                {
+                    "name": "Science",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["A", "P", "A", "A", "P"]
+                    },
+                    "percentage": "40%",
+                    "attended_classes": 2,
+                    "absent_classes": 3
+                },
+                {
+                    "name": "English",
+                    "marks": {
+                        "date": ["2023-05-01T00:00:00", "2023-05-02T00:00:00", "2023-05-03T00:00:00", "2023-05-04T00:00:00", "2023-05-05T00:00:00"],
+                        "marking": ["P", "P", "P", "A", "A"]
+                    },
+                    "percentage": "80%",
+                    "attended_classes": 4,
+                    "absent_classes": 1
+                }
+            ]
+        }
+    }
+        ]
+}

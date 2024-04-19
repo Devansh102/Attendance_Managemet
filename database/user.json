@@ -1,0 +1,59 @@
+{
+  "User_list":[
+    {
+        "id": "1001",
+        "password": "password1",
+        "type":"student"
+    },
+    {
+        "id": "1002",
+        "password": "password2",
+        "type":"student"
+    },
+    {
+        "id": "1003",
+        "password": "password3",
+        "type":"student"
+    },
+    {
+        "id": "1004",
+        "password": "password4",
+        "type":"student"
+    },
+    {
+        "id": "1005",
+        "password": "password5",
+        "type":"student"
+    },
+    {
+        "id": "1006",
+        "password": "password6",
+        "type":"student"
+    },
+    {
+        "id": "1007",
+        "password": "password7",
+        "type":"student"
+    },
+    {
+        "id": "1008",
+        "password": "password8",
+        "type":"student"
+    },
+    {
+        "id": "1009",
+        "password": "password9",
+        "type":"student"
+    },
+    {
+        "id": "1010",
+        "password": "password10",
+        "type":"student"
+    },
+    {
+        "id": "professor101",
+        "password": "password101",
+        "type":"teacher"
+    }
+]
+}

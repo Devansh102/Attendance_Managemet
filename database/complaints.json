@@ -1,0 +1,20 @@
+{
+    "complaints": [
+      {
+        "name": "John Doe",
+        "date": "2022-04-18",
+        "complaint": "I was marked absent for Maths class on May 5th even though I was present."
+      },
+      {
+        "name": "Jane Smith",
+        "date": "2022-05-02",
+        "complaint": "My attendance for the whole week is showing as absent for all subjects, but I was present."
+      },
+      {
+        "name": "Bob Johnson",
+        "date": "2022-05-08",
+        "complaint": "There is a mistake in my attendance record for Physics class on May 6th, it shows me as absent but I was actually present."
+      }
+    ]
+  }
+  

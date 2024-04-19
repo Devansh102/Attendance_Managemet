@@ -1,0 +1,55 @@
+Cover page 
+
+            PROject Report
+                on
+
+
+            submitted by 
+
+            fsd
+
+
+
+2nd page 
+
+        summary in about 250 words what was
+        present what we did how it helps.
+
+
+
+
+introduction page 
+                
+                References inside [i]
+                at last 
+
+
+
+Related Work Page / Literature Reviews / Previous Work
+
+
+
+Material and methods
+
+
+
+
+
+
+
+Perposal / methodology / Algorithm
+                    flowchart
+
+
+Result And Discussion
+            The purposed aporach is compared with existing State of methods
+
+
+Conclusion and future work / scope / direction
+
+
+References 
+            IEEE format
+            [1] Authors Name, 'Title', Journal Name, Vol, no. , PP
+
+
